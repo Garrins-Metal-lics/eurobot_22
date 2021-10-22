@@ -1,0 +1,8 @@
+<launch>
+    <node
+        name = "talker"
+        type = "primer_node.py"
+        pkg = "navigation"
+        output = "screen">
+    </node>
+</launch>
