@@ -1,3 +1,6 @@
 MESURES DEL ROBOT :
  - Base del robot: 280 mm per costat.
+ - Altura del robot amb les rodes incloses: 318 mm.
+ - Diàmetre de les rodes 6 mm.
  - Posició cartesiana del lidar: 14 x 14 mm.
+ 
