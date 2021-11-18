@@ -1,0 +1,3 @@
+MESURES DEL ROBOT :
+ - Base del robot: 280 mm per costat.
+ - Posició cartesiana del lidar: 14 x 14 mm.
